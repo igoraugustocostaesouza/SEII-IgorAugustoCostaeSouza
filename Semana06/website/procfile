@@ -1,0 +1,7 @@
+#Autor: Hudson Pires
+#Data: 04/12/2020 
+#Atividade: Semana 07 - Servidor web com flask
+#Programa: procfile
+#referência:https://www.youtube.com/watch?v=Z1RJmh_OqeA
+
+web: gunicorn app:app
